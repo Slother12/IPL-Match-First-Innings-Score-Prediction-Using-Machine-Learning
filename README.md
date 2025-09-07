@@ -1,7 +1,7 @@
 # IPL-Match-First-Innings-Score-Prediction-Using-Machine-Learning
 A machine learning project to predict first-innings IPL scores using regression models. Includes data preprocessing, EDA, feature engineering, and model comparison (Linear Regression, Decision Tree, Random Forest) to analyze scoring patterns and improve prediction accuracy.
 ## This is a self-project that predicts the first-innings score of IPL cricket matches using machine learning regression techniques. The project applies data preprocessing, exploratory data analysis (EDA), feature engineering, and model comparison to improve prediction accuracy.
-## repository link : 
+## repository link : https://github.com/Slother12/IPL-Match-First-Innings-Score-Prediction-Using-Machine-Learning/tree/main
 ## Features
 --Preprocesses raw IPL match data for training and testing.
 --Performs EDA to uncover patterns and impactful features.
