@@ -1,0 +1,6 @@
+match_id,venue,batting_team,bowling_team,overs_completed,runs_so_far,wickets_so_far,final_score
+1,Chennai,Chennai Super Kings,Mumbai Indians,5,50,1,180
+2,Delhi,Delhi Capitals,Royal Challengers Bangalore,5,45,2,165
+3,Kolkata,Kolkata Knight Riders,Rajasthan Royals,5,55,1,175
+4,Mumbai,Mumbai Indians,Chennai Super Kings,5,60,0,190
+5,Bangalore,Royal Challengers Bangalore,Delhi Capitals,5,48,2,170
